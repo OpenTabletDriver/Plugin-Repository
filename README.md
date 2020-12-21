@@ -7,12 +7,13 @@ This is a repository for [OpenTabletDriver](https://github.com/InfinityGhost/Ope
 In order to achieve maintainability, strict directory naming is enforced.
 
 ```
-Plugin-Repository/Repository/{Owner}/{Repository}/{Tag}/{Name}.json
+Plugin-Repository/Repository/{Version}/{Owner}/{Repository}/{Name}/{Tag}.json
 ```
 
 | Key        | Value                                                       |
 | ---------- | ----------------------------------------------------------- |
+| Version    | The supported OpenTabletDriver version                      |
 | Owner      | The owner of the source code repository                     |
 | Repository | The name of the source code repository                      |
-| Tag        | The release tag or revision of the source code it was built |
 | Name       | The name of the plugin                                      |
+| Tag        | The release tag or revision of the source code it was built |
