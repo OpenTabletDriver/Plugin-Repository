@@ -7,7 +7,7 @@
     "RepositoryUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins",
     "DownloadUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins/releases/download/0.2.0-rc/BezierInterpolator.zip",
     "CompressionFormat": "zip",
-    "SHA256": "FC2064730779650E6447AE45979F1DFA4AA243986F323F263B0E1474D04DD44C",
+    "SHA256": "fc2064730779650e6447ae45979f1dfa4aa243986f323f263b0e1474d04dd44c",
     "WikiUrl": null,
     "LicenseIdentifier": "GPL-3.0-only"
 }
