@@ -1,0 +1,13 @@
+{
+    "Name": "TouchEmu",
+    "Owner": "X9VoiD",
+    "Description": "Windows 10 Touch Output Mode",
+    "PluginVersion": "0.2.2.0",
+    "SupportedDriverVersion": "0.5.0.0",
+    "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/v0.2.2/TouchEmu.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "b559118474d9f25b4e5664308edd926333437db8a452ac2c055a958c866550ce",
+    "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/TouchEmu",
+    "LicenseIdentifier": "GPL-3.0-or-later"
+}

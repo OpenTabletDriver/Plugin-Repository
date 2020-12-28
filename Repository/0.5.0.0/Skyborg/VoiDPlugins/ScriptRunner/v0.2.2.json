@@ -1,0 +1,13 @@
+{
+    "Name": "ScriptRunner",
+    "Owner": "Skyborg",
+    "Description": "Bindable Script Launcher",
+    "PluginVersion": "0.2.2.0",
+    "SupportedDriverVersion": "0.5.0.0",
+    "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/v0.2.2/ScriptRunner.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "dbb34d2b07d43c40ac4ac26d06856dc102a9070354e075f6363929f71758b37c",
+    "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/ScriptRunner",
+    "LicenseIdentifier": "GPL-3.0-or-later"
+}
