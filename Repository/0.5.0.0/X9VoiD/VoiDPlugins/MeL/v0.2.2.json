@@ -1,13 +1,13 @@
 {
     "Name": "MeL",
     "Owner": "X9VoiD",
-    "Description": "Linear Interpolation Filter",
+    "Description": "Polynomial Regression Filter",
     "PluginVersion": "0.2.2.0",
     "SupportedDriverVersion": "0.5.0.0",
     "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
     "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/v0.2.2/MeL.zip",
     "CompressionFormat": "zip",
-    "SHA256": "897e46f5dd57ce6d9f1e9c7524e578f5cb2c26473a186846a3d9419bec03e113",
+    "SHA256": "764e02e5b577e127f68d4dda05273f4db68db5f83ecec7cc2777cd7af635a8e4",
     "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/MeL",
-    "LicenseIdentifier": "GPL-3.0-or-later"
+    "LicenseIdentifier": "GPL-3.0-only"
 }
