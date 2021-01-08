@@ -1,7 +1,7 @@
 {
     "Name": "HawkuFilters",
     "Owner": "OpenTabletDriver",
-    "Description": "Ported Hawku Filters",
+    "Description": "Ported hawku/TabletDriver filters",
     "PluginVersion": "0.1.0.0",
     "SupportedDriverVersion": "0.5.0.0",
     "RepositoryUrl": "https://github.com/OpenTabletDriver/TabletDriverFilters",

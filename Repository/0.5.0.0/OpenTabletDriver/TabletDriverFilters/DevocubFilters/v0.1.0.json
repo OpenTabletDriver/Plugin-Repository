@@ -1,7 +1,7 @@
 {
     "Name": "DevocubFilters",
     "Owner": "OpenTabletDriver",
-    "Description": "Ported Devocub Filters",
+    "Description": "Ported Devocub/TabletDriver filters",
     "PluginVersion": "0.1.0.0",
     "SupportedDriverVersion": "0.5.0.0",
     "RepositoryUrl": "https://github.com/OpenTabletDriver/TabletDriverFilters",
