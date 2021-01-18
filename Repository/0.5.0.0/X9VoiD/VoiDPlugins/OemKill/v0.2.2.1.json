@@ -1,0 +1,13 @@
+{
+    "Name": "OemKill",
+    "Owner": "X9VoiD",
+    "Description": "OEM Driver Management",
+    "PluginVersion": "0.2.2.1",
+    "SupportedDriverVersion": "0.5.0.0",
+    "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/v0.2.2.1/OemKill.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "55ed60d5db400b8e0773adf356f5db3a4b0c18678a6d9d6f78fc26607f92f541",
+    "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/OemKill",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
