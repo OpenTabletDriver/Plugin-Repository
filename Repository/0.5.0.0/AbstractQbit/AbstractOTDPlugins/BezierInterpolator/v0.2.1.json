@@ -2,12 +2,12 @@
     "Name": "BezierInterpolator",
     "Owner": "AbstractQbit",
     "Description": "Bezier Interpolation Filter",
-    "PluginVersion": "0.2.1.0",
+    "PluginVersion": "0.2.1.1",
     "SupportedDriverVersion": "0.5.0.0",
     "RepositoryUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins",
-    "DownloadUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins/releases/download/0.2.1/BezierInterpolator.zip",
+    "DownloadUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins/releases/download/0.2.1.1/BezierInterpolator.zip",
     "CompressionFormat": "zip",
-    "SHA256": "a90a515b84812b77b9854c6d6fcbdcea7d3df196efffc204f8d56e447da3a1f1",
+    "SHA256": "322c0436753da8a0bad854bba3e65236c78b8d0c35b1f08a5c8277ce5810f3de",
     "WikiUrl": null,
     "LicenseIdentifier": "GPL-3.0-only"
 }
