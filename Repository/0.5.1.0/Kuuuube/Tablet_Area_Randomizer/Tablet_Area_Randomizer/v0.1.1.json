@@ -2,12 +2,12 @@
     "Name": "Tablet Area Randomizer",
     "Owner": "Kuuuube",
     "Description": "Randomizes tablet area within given parameters",
-    "PluginVersion": "0.1.0.0",
+    "PluginVersion": "0.1.1.0",
     "SupportedDriverVersion": "0.5.1.0",
     "RepositoryUrl": "https://github.com/Kuuuube/Tablet_Area_Randomizer",
-    "DownloadUrl": "https://github.com/Kuuuube/Tablet_Area_Randomizer/releases/download/0.1.0/0.1.0_release_Tablet_Area_Randomizer.zip",
+    "DownloadUrl": "https://github.com/Kuuuube/Tablet_Area_Randomizer/releases/download/0.1.1/0.1.1_release_Tablet_Area_Randomizer.zip",
     "CompressionFormat": "zip",
-    "SHA256": "4ea18b9f7e479f6db8f88d8fb9459e9745b4d7248cbc33c15f6d5d42a1ec0176",
+    "SHA256": "d05a036b69c0cf4e29d474a71050ccc608ed3fd1352361aba86f79759dc5a4eb",
     "WikiUrl": "https://github.com/Kuuuube/Tablet_Area_Randomizer/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
