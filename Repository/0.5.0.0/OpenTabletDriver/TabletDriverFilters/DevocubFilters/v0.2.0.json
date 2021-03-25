@@ -1,0 +1,13 @@
+{
+    "Name": "DevocubFilters",
+    "Owner": "OpenTabletDriver",
+    "Description": "Ported Devocub/TabletDriver interpolators",
+    "PluginVersion": "0.2.0.0",
+    "SupportedDriverVersion": "0.5.0.0",
+    "RepositoryUrl": "https://github.com/OpenTabletDriver/TabletDriverFilters",
+    "DownloadUrl": "https://github.com/OpenTabletDriver/TabletDriverFilters/releases/download/v0.2.0/DevocubFilters.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "dcfdf0b127f5f4d94abcdd4bfd3122a400a4b016f3a55085d43147e214c97e07",
+    "WikiUrl": "https://github.com/Devocub/TabletDriver#antichatter",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
