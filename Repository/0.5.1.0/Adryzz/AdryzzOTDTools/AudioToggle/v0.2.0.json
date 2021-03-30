@@ -1,0 +1,13 @@
+{
+    "Name": "AudioToggle",
+    "Owner": "Adryzz",
+    "Description": "Audio mute tool",
+    "PluginVersion": "0.2.0",
+    "SupportedDriverVersion": "0.5.2.3",
+    "RepositoryUrl": "https://github.com/adryzz/AdryzzOTDTools",
+    "DownloadUrl": "https://github.com/adryzz/AdryzzOTDTools/releases/download/v0.2.0/AudioToggle.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "141d2bb4ef1300c208b3f275856dd25c4941fb8662eac212f8be34d61c1c0a6f",
+    "WikiUrl": "https://github.com/adryzz/AdryzzOTDTools/wiki/AudioToggle-configuration",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
