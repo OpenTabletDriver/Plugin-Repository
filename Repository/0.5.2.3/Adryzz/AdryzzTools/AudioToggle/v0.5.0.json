@@ -1,0 +1,13 @@
+{
+    "Name": "AudioToggle",
+    "Owner": "Adryzz",
+    "Description": "Toggles mute for audio devices by clicking tablet buttons",
+    "PluginVersion": "0.5.0",
+    "SupportedDriverVersion": "0.5.2.3",
+    "RepositoryUrl": "https://github.com/adryzz/AdryzzOTDTools",
+    "DownloadUrl": "https://github.com/adryzz/AdryzzOTDTools/releases/download/v0.5.0/AudioToggle.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "ce5c39b2479e5c21609270b0238c36539be2828ee625ebd49a26f04832c78037",
+    "WikiUrl": "https://github.com/adryzz/AdryzzOTDTools/wiki",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
