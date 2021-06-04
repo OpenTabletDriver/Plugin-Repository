@@ -1,7 +1,7 @@
 {
     "Name": "AbstractQbit's Radial Follow Smoothing",
     "Owner": "AbstractQbit",
-    "Description": "The Ultimate Smoothing Plugin, providing cursor stability while still allowing to hit fast jumps with ease",
+    "Description": "The Ultimate Smoothing Plugin,\nproviding cursor stability while still allowing to hit fast jumps with ease",
     "PluginVersion": "0.1.1.0",
     "SupportedDriverVersion": "0.5.0.0",
     "RepositoryUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins",
