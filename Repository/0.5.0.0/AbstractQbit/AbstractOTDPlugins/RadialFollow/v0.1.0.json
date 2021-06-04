@@ -1,0 +1,13 @@
+{
+    "Name": "AbstractQbit's Radial Follow Smoothing",
+    "Owner": "AbstractQbit",
+    "Description": "The Ultimate Smoothing Plugin, providing cursor stability while still allowing to hit fast jumps with ease",
+    "PluginVersion": "0.1.0.0",
+    "SupportedDriverVersion": "0.5.0.0",
+    "RepositoryUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins",
+    "DownloadUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins/releases/download/RadialFollow-0.1.0/RadialFollow.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "2399bb92d6f8d66eefe001a7a93e1d5b192000132e0558ef37b7484643577cb0",
+    "WikiUrl": null,
+    "LicenseIdentifier": "GPL-3.0-only"
+}
