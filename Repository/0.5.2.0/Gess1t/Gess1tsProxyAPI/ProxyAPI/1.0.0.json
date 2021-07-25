@@ -1,0 +1,13 @@
+{
+    "Name": "Gess1t's Proxy API",
+    "Owner": "Gess1t",
+    "Description": "Interact will plugins, Make Overlays and more.",
+    "PluginVersion": "1.0.0",
+    "SupportedDriverVersion": "0.5.2.0",
+    "RepositoryUrl": "https://github.com/Mrcubix/Gess1t-s-Proxy-API",
+    "DownloadUrl": "https://github.com/Mrcubix/Gess1t-s-Proxy-API/releases/download/1.0.0/Proxy.API.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "9ff731e487181f8f831f16b88f648a70a49533dc2f5f2f8f7fb5a6ecb7a2d473",
+    "WikiUrl": "https://github.com/Mrcubix/Gess1t-s-Proxy-API",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
