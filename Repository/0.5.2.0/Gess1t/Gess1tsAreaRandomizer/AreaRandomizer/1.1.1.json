@@ -2,12 +2,12 @@
     "Name": "Gess1t's Area Randomizer",
     "Owner": "Gess1t",
     "Description": "Generate a random area / sensitivity while using OTD",
-    "PluginVersion": "1.1.0",
+    "PluginVersion": "1.1.1",
     "SupportedDriverVersion": "0.5.2.0",
     "RepositoryUrl": "https://github.com/Mrcubix/Gess1t-s-Area-Randomizer/",
-    "DownloadUrl": "https://github.com/Mrcubix/Gess1t-s-Area-Randomizer/releases/download/1.1.0/Gess1t.s.Area.Randomizer.zip",
+    "DownloadUrl": "https://github.com/Mrcubix/Gess1t-s-Area-Randomizer/releases/download/1.1.1/Gess1t.s.Area.Randomizer.zip",
     "CompressionFormat": "zip",
-    "SHA256": "6a20a271a4c10c180072f1557b2c0a05d51ad1dea819ec56f6829199d63a362f",
+    "SHA256": "3d031a53446aa32c2bb02ded87ac819a57b87101e88157658815e8d472203616",
     "WikiUrl": "https://github.com/Mrcubix/Gess1t-s-Area-Randomizer",
     "LicenseIdentifier": "GPL-3.0-only"
 }
