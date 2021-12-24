@@ -1,0 +1,13 @@
+{
+    "Name": "Kuuube's CHATTER EXTERMINATOR",
+    "Owner": "Kuuuube",
+    "Description": "Extremely simple to use anti-chatter with perfect low latency CHATTER EXTERMINATION.",
+    "PluginVersion": "1.0.0.0",
+    "SupportedDriverVersion": "0.6.0.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/Kuuube-s-CHATTER-EXTERMINATOR",
+    "DownloadUrl": "https://github.com/Kuuuube/Kuuube-s-CHATTER-EXTERMINATOR/releases/download/1.0.0/1.0.0_release_Kuuube-s-CHATTER-EXTERMINATOR.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "3d43e0f21d642f15e6dc78827e742ead1bec46db7bce93cdd0d83455426c5cdb",
+    "WikiUrl": "https://github.com/Kuuuube/Kuuube-s-CHATTER-EXTERMINATOR/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
