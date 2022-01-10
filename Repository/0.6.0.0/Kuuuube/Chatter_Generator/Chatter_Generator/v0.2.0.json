@@ -4,7 +4,7 @@
     "Description": "Add chatter, shake, noise, etc to your tablet input.",
     "PluginVersion": "0.2.0.0",
     "SupportedDriverVersion": "0.6.0.0",
-    "RepositoryUrl": "https://github.com/Kuuuube/Circular_Area",
+    "RepositoryUrl": "https://github.com/Kuuuube/Chatter_Generator",
     "DownloadUrl": "https://github.com/Kuuuube/Chatter_Generator/releases/download/0.2.0/0.2.0_release_Chatter_Generator.zip",
     "CompressionFormat": "zip",
     "SHA256": "9cd71647ec32e2c671dc1df1ac5ad3cd5d3921be5310f1617c1c6b32b02369cf",
