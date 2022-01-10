@@ -1,0 +1,13 @@
+{
+    "Name": "Hover Distance Limiter",
+    "Owner": "Kuuuube",
+    "Description": "Limits hover distance or removes it entirely.",
+    "PluginVersion": "0.1.0.0",
+    "SupportedDriverVersion": "0.6.0.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/Hover_Distance_Limiter",
+    "DownloadUrl": "https://github.com/Kuuuube/Hover_Distance_Limiter/releases/download/0.1.0/0.1.0_release_Hover_Distance_Limiter.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "cd154c7bcdb7405eb6e8a9f303b80c89c47044017781ea1bddc67c0fe6aa5c27",
+    "WikiUrl": "https://github.com/Kuuuube/Hover_Distance_Limiter/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
