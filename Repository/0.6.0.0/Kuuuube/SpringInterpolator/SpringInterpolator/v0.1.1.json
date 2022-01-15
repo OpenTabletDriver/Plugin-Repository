@@ -1,0 +1,13 @@
+{
+    "Name": "SpringInterpolator",
+    "Owner": "Kuuuube",
+    "Description": "Interpolates your pointer based on a spring physics system",
+    "PluginVersion": "0.1.1",
+    "SupportedDriverVersion": "0.6.0.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/SpringInterpolator",
+    "DownloadUrl": "https://github.com/Kuuuube/SpringInterpolator/releases/download/0.1.1/0.1.1_release_SpringInterpolator.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "78f9668939f1e8d7839f212d6b2efe996d9fd991dbab252ae8381f39d85fa843",
+    "WikiUrl": "https://github.com/Kuuuube/SpringInterpolator/blob/master/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
