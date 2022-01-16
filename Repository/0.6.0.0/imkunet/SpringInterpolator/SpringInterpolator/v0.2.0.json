@@ -1,0 +1,13 @@
+{
+    "Name": "SpringInterpolator",
+    "Owner": "imkunet",
+    "Description": "Interpolates your pointer based on a spring physics system",
+    "PluginVersion": "0.2.0",
+    "SupportedDriverVersion": "0.6.0.0",
+    "RepositoryUrl": "https://github.com/imkunet/SpringInterpolator",
+    "DownloadUrl": "https://github.com/imkunet/SpringInterpolator/releases/download/0.2.0/SpringInterpolator.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "563451dfcf0158fd866f464b8661e323af40fdc3e0edd64bb2c90c111bd57bcb",
+    "WikiUrl": "https://github.com/imkunet/SpringInterpolator/blob/master/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
