@@ -1,0 +1,13 @@
+{
+    "Name": "MeL",
+    "Owner": "X9VoiD",
+    "Description": "Polynomial Regression Filter",
+    "PluginVersion": "0.3.0",
+    "SupportedDriverVersion": "0.6.0.2",
+    "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.0/MeL.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "51472385f7fab36532ad899c2875ff8b074222f7fe1faf4ec7cfb305627fc98c",
+    "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/MeL",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
