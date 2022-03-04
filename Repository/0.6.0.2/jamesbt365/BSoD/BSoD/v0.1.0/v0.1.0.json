@@ -1,0 +1,13 @@
+{
+    "Name": "BSoD",
+    "Owner": "jamesbt365",
+    "Description": "Crash Windows with the press of a button.",
+    "PluginVersion": "0.3.0",
+    "SupportedDriverVersion": "0.6.0.2",
+    "RepositoryUrl": "https://github.com/jamesbt365/BSoD/",
+    "DownloadUrl": "https://github.com/jamesbt365/BSoD/releases/download/v0.1.0/BSoD.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "119be10db4520c4726f1c33bf2e38304c0d46142642371a105d56c0c441ac48c",
+    "WikiUrl": "https://github.com/jamesbt365/BSoD/blob/master/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
