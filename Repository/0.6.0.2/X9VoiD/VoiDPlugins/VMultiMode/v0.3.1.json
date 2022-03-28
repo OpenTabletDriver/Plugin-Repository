@@ -2,12 +2,12 @@
     "Name": "VMultiMode",
     "Owner": "X9VoiD",
     "Description": "Classic VMulti Output Mode",
-    "PluginVersion": "0.3.0",
+    "PluginVersion": "0.3.1",
     "SupportedDriverVersion": "0.6.0.2",
     "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
-    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.0/VMultiMode.zip",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.1/VMultiMode.zip",
     "CompressionFormat": "zip",
-    "SHA256": "c8db2cacb7219ceacb41ae1e2e332241ae725e9009aa2e1f0c29478c08ebe9da",
+    "SHA256": "4de6afe294979e5cd8140f9e8515152ff5ccf942740fb5bc795e7e3dc7beb093",
     "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/VMultiMode",
     "LicenseIdentifier": "GPL-3.0-only"
 }
