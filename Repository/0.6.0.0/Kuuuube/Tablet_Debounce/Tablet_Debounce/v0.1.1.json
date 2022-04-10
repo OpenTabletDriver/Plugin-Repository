@@ -2,12 +2,12 @@
     "Name": "Tablet Debounce",
     "Owner": "Kuuuube",
     "Description": "Prevents unintended repitition of pen tip inputs.",
-    "PluginVersion": "0.1.0.0",
+    "PluginVersion": "0.1.1.0",
     "SupportedDriverVersion": "0.6.0.0",
     "RepositoryUrl": "https://github.com/Kuuuube/Tablet_Debounce",
-    "DownloadUrl": "https://github.com/Kuuuube/Tablet_Debounce/releases/download/0.1.0/0.1.0_release_Tablet_Debounce.zip",
+    "DownloadUrl": "https://github.com/Kuuuube/Tablet_Debounce/releases/download/0.1.1/0.1.1_release_Tablet_Debounce.zip",
     "CompressionFormat": "zip",
-    "SHA256": "befbedb60337801374212ef8ea555d9a0b9a16371307263b8111da814d485156",
+    "SHA256": "f7ef96f70cad980d2cb444fb0294b7adec2f9b3c4e546753170c35405d774195",
     "WikiUrl": "https://github.com/Kuuuube/Tablet_Debounce/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
