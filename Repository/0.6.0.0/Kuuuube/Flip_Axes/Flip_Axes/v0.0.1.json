@@ -1,0 +1,13 @@
+{
+    "Name": "Flip Axes",
+    "Owner": "Kuuuube",
+    "Description": "Flips the X or Y axes of the tablet area.",
+    "PluginVersion": "0.0.1.0",
+    "SupportedDriverVersion": "0.6.0.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/Flip_Axes",
+    "DownloadUrl": "https://github.com/Kuuuube/Flip_Axes/releases/download/0.0.1/0.0.1_release_Flip_Axes.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "333f3e33775eda690f04a1e623a66cab409e2ec1a07aaec18ddac6977db00496",
+    "WikiUrl": "https://github.com/Kuuuube/Flip_Axes/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
