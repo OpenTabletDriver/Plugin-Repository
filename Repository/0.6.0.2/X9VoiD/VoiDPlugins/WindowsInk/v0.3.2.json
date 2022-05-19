@@ -2,12 +2,12 @@
     "Name": "Windows Ink",
     "Owner": "X9VoiD",
     "Description": "Windows Ink Output Mode",
-    "PluginVersion": "0.3.1",
-    "SupportedDriverVersion": "0.6.0.2",
+    "PluginVersion": "0.3.2",
+    "SupportedDriverVersion": "0.6.0.4",
     "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
-    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.1/WindowsInk.zip",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.2/WindowsInk.zip",
     "CompressionFormat": "zip",
-    "SHA256": "3dfbf80ce3c573540469f8123741ab300a4271b260d6f39993d28542fe8b5458",
+    "SHA256": "27f83d3f05802995674129f84fbcb1f2b6a0fc97dc2cb51817efa93f8f6a2d77",
     "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/WindowsInk",
     "LicenseIdentifier": "GPL-3.0-only"
 }
