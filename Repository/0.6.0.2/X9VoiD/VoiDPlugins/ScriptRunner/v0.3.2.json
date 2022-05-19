@@ -2,12 +2,12 @@
     "Name": "ScriptRunner",
     "Owner": "X9VoiD",
     "Description": "Bindable Script Launcher",
-    "PluginVersion": "0.3.1",
-    "SupportedDriverVersion": "0.6.0.2",
+    "PluginVersion": "0.3.2",
+    "SupportedDriverVersion": "0.6.0.4",
     "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
-    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.1/ScriptRunner.zip",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.2/ScriptRunner.zip",
     "CompressionFormat": "zip",
-    "SHA256": "fe3ab33ddfe0be9ba4858e7c1af2cec108df4eadc18a87ab635e3421bec12c93",
+    "SHA256": "980630e94322435af8e0f7a3709ddaa180b18a458952184807fd1e6ba9483312",
     "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/ScriptRunner",
     "LicenseIdentifier": "GPL-3.0-only"
 }
