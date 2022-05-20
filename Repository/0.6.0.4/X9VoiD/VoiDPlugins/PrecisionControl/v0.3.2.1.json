@@ -2,12 +2,12 @@
     "Name": "Precision Control",
     "Owner": "X9VoiD",
     "Description": "Dynamic Sensitivity Switch",
-    "PluginVersion": "0.3.2",
+    "PluginVersion": "0.3.2.1",
     "SupportedDriverVersion": "0.6.0.4",
     "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
-    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.2/PrecisionControl.zip",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.2.1/PrecisionControl.zip",
     "CompressionFormat": "zip",
-    "SHA256": "53b69a29de4ff3141248f4c1f1f161f979a3fb6724c47528f96e1307e0a5dc5f",
+    "SHA256": "75751dd916fb159c35e58eef527ad680d3362d6cee719ac7b9da0766404dd8e2",
     "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/PrecisionControl",
     "LicenseIdentifier": "GPL-3.0-only"
 }
