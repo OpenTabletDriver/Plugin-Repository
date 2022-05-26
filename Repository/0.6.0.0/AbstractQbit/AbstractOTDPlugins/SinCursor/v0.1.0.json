@@ -1,0 +1,13 @@
+{
+    "Name": "sin(cursor)",
+    "Owner": "AbstractQbit",
+    "Description": "A meme filter idea proposed by @jamesbt365 that turns the cursor path into a sine wave",
+    "PluginVersion": "0.1.0.0",
+    "SupportedDriverVersion": "0.6.0.0",
+    "RepositoryUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins",
+    "DownloadUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins/releases/download/SinCursor-0.1.0/SinCursor.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "802a770c7d3def5b34500c67dcf53267988eb381e6e64bf7aece3a93fbb1697d",
+    "WikiUrl": "https://github.com/AbstractQbit/AbstractOTDPlugins#sincursor",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
