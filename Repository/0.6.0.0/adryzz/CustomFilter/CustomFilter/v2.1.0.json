@@ -2,12 +2,12 @@
   "Name": "Adryzz's Custom Filter",
   "Owner": "Adryzz",
   "Description": "The Ultimate filter, allowing you to use any polynomial as a filter without having to write any code!",
-  "PluginVersion": "1.1.0",
+  "PluginVersion": "2.1.0",
   "SupportedDriverVersion": "0.6.0.0",
   "RepositoryUrl": "https://github.com/adryzz/CustomFilter",
-  "DownloadUrl": "https://github.com/adryzz/CustomFilter/releases/download/v1.1.0/CustomFilter.zip",
+  "DownloadUrl": "https://github.com/adryzz/CustomFilter/releases/download/v2.1.0/CustomFilter.zip",
   "CompressionFormat": "zip",
-  "SHA256": "347ea66cb1f58189b0e66a76d934840c63dd8c8c718a9cb3810c545a1684482d",
+  "SHA256": "84833f36adb39316f8d43149f3b08742cb99f3d301af34d74112f23881062aca",
   "WikiUrl": "https://github.com/adryzz/CustomFilter#readme",
   "LicenseIdentifier": "GPL-3.0-only"
 }
