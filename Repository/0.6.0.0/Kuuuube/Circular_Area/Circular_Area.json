@@ -2,12 +2,12 @@
     "Name": "Circular Area",
     "Owner": "Kuuuube",
     "Description": "Circular mapping for tablet areas.",
-    "PluginVersion": "3.0.0.0",
+    "PluginVersion": "3.1.0.0",
     "SupportedDriverVersion": "0.6.0.0",
     "RepositoryUrl": "https://github.com/Kuuuube/Circular_Area",
-    "DownloadUrl": "https://github.com/Kuuuube/Circular_Area/releases/download/3.0.0/3.0.0_release_Circular_Area.zip",
+    "DownloadUrl": "https://github.com/Kuuuube/Circular_Area/releases/download/3.1.0/3.1.0_release_Circular_Area.zip",
     "CompressionFormat": "zip",
-    "SHA256": "53fd5709f2c13a1ca4f592af6d878fa081136a628b4783b8e2dbc17a62ed3bdd",
+    "SHA256": "0331f465872e75f7699836b654d8bbad83334eb034ebb2b8b15d0edcfcb815a3",
     "WikiUrl": "https://github.com/Kuuuube/Circular_Area/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
