@@ -1,7 +1,7 @@
 {
     "Name": "Slimy Scylla",
     "Owner": "Kuuuube",
-    "Description": "Provides popular input processing methods for drawing tablets.",
+    "Description": "Provides popular input processing methods for drawing.",
     "PluginVersion": "0.1.6.0",
     "SupportedDriverVersion": "0.6.1.0",
     "RepositoryUrl": "https://github.com/Kuuuube/Slimy_Scylla",
