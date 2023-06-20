@@ -1,0 +1,13 @@
+{
+    "Name": "Tablet Calibration",
+    "Owner": "Kuuuube",
+    "Description": "Filters to make perfect display tablet calibration possible.",
+    "PluginVersion": "0.0.3.0",
+    "SupportedDriverVersion": "0.6.1.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/Tablet_Calibration",
+    "DownloadUrl": "https://github.com/Kuuuube/Tablet_Calibration/releases/download/0.0.3/0.0.3_release_Tablet_Calibration.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "14066649953140fbda7c23e29e5b367a9036742329a6953e3c481316029e268c",
+    "WikiUrl": "https://github.com/Kuuuube/Tablet_Calibration/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
