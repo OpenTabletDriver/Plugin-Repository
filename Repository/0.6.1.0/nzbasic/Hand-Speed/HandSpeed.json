@@ -1,0 +1,13 @@
+{
+    "Name": "nzbasic's Hand Speed Viewer",
+    "Owner": "nzbasic",
+    "Description": "Shows your current hand speed and total distance traveled.",
+    "PluginVersion": "1.4.1",
+    "SupportedDriverVersion": "0.6.1.0",
+    "RepositoryUrl": "https://github.com/nzbasic/Hand-Speed",
+    "DownloadUrl": "https://github.com/nzbasic/Hand-Speed/releases/download/1.4.1/Hand-Speed-1.4.1.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "6c27bc397776d4a8cbbdb77ae010e5fd722a87da8001f4229713c6dd084243f9",
+    "WikiUrl": "https://github.com/nzbasic/Hand-Speed/blob/master/README.md",
+    "LicenseIdentifier": "MIT"
+}
