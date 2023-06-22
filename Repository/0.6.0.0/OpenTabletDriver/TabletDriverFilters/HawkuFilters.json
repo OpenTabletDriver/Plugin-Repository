@@ -2,12 +2,12 @@
     "Name": "HawkuFilters",
     "Owner": "OpenTabletDriver",
     "Description": "Ported hawku/TabletDriver interpolators",
-    "PluginVersion": "0.3.0.0",
+    "PluginVersion": "0.3.1.0",
     "SupportedDriverVersion": "0.6.0.0",
     "RepositoryUrl": "https://github.com/OpenTabletDriver/TabletDriverFilters",
-    "DownloadUrl": "https://github.com/OpenTabletDriver/TabletDriverFilters/releases/download/v0.3.0/HawkuFilters.zip",
+    "DownloadUrl": "https://github.com/OpenTabletDriver/TabletDriverFilters/releases/download/v0.3.1/HawkuFilters.zip",
     "CompressionFormat": "zip",
-    "SHA256": "f1d1a4060601334af57305bad97e252e6ca9d290bb482f0f8e5db620757c01c5",
+    "SHA256": "6fd61f84a0857fe9d835cf21c328193c06a392c934db9f9758fc86697dce3190",
     "WikiUrl": null,
     "LicenseIdentifier": "GPL-3.0-only"
 }
