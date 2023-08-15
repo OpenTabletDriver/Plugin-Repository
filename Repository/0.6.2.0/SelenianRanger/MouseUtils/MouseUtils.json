@@ -1,0 +1,13 @@
+{
+  "Name": "MouseUtils",
+  "Owner": "SelenainRanger",
+  "Description": "Adds Abs2Rel and Windows Mouse Acceleration filters, with fully customizable bindings",
+  "PluginVersion": "1.0.1.0",
+  "SupportedDriverVersion": "0.6.2.0",
+  "RepositoryUrl": "https://github.com/SelenianRanger/MouseUtils",
+  "DownloadUrl": "https://github.com/SelenianRanger/MouseUtils/releases/download/v1.0.1/MouseUtils.v1.0.1.zip",
+  "CompressionFormat": "zip",
+  "SHA256": "3b72e7ec7d343d3d58062711f11e5a102ee7564cd4e3cd1df8addbab266eea65",
+  "WikiUrl": "https://github.com/SelenianRanger/MouseUtils/blob/main/README.md",
+  "LicenseIdentifier": "GPL-3.0-only"
+}
