@@ -1,0 +1,13 @@
+{
+    "Name": "Reconstructor",
+    "Owner": "X9VoiD",
+    "Description": "Mathematically Perfect Anti-Hardware-Smoothing",
+    "PluginVersion": "0.4.1",
+    "SupportedDriverVersion": "0.6.1.0",
+    "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
+    "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.4.1/Reconstructor.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "7e06b98c6aa1b9d2e8bc897a12a7ce01f07438c63e322abf411c425257a1eec9",
+    "WikiUrl": "https://github.com/X9VoiD/VoiDPlugins/wiki/Reconstructor",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
