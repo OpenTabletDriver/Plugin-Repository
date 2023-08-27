@@ -1,0 +1,13 @@
+{
+    "Name": "PSSA",
+    "Owner": "jamesbt365",
+    "Description": "A plugin for changing the smoothing based on how hard you drag!",
+    "PluginVersion": "0.2",
+    "SupportedDriverVersion": "0.6.1.0",
+    "RepositoryUrl": "https://github.com/jamesbt365/PSSA",
+    "DownloadUrl": "https://github.com/jamesbt365/PSSA/releases/download/0.2/PSSA.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "47d285fe495808272888c9a9f3bf429a8ce06c684bd3da3c06dd52cbbe972122",
+    "WikiUrl": "https://github.com/jamesbt365/PSSA/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
