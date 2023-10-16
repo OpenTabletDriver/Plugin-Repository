@@ -1,0 +1,13 @@
+{
+    "Name": "Cycle Keybind",
+    "Owner": "Ashesh3",
+    "Description": "Cycle multiple keyboard bindings on each press.",
+    "PluginVersion": "0.1.0.0",
+    "SupportedDriverVersion": "0.6.3.0",
+    "RepositoryUrl": "https://github.com/Ashesh3/OTDCycleBind",
+    "DownloadUrl": "https://github.com/Ashesh3/OTDCycleBind/releases/download/1.0.0/CycleBind.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "7ddfb5dd4080c0b23629047639f8c398f4fe1b38897b369a680be68a8a97eabc",
+    "WikiUrl": "https://github.com/Ashesh3/OTDCycleBind/blob/master/README.md",
+    "LicenseIdentifier": "MIT"
+}
