@@ -2,12 +2,12 @@
     "Name": "Chatter Generator",
     "Owner": "Kuuuube",
     "Description": "Add chatter, shake, noise, etc to your tablet input.",
-    "PluginVersion": "0.2.0.0",
+    "PluginVersion": "0.2.1.0",
     "SupportedDriverVersion": "0.6.0.0",
     "RepositoryUrl": "https://github.com/Kuuuube/Chatter_Generator",
-    "DownloadUrl": "https://github.com/Kuuuube/Chatter_Generator/releases/download/0.2.0/0.2.0_release_Chatter_Generator.zip",
+    "DownloadUrl": "https://github.com/Kuuuube/Chatter_Generator/releases/download/0.2.1/0.2.1_release_Chatter_Generator.zip",
     "CompressionFormat": "zip",
-    "SHA256": "9cd71647ec32e2c671dc1df1ac5ad3cd5d3921be5310f1617c1c6b32b02369cf",
+    "SHA256": "95e152774130e84d0108772229a029c8a471c30b94defb965a71a5ae4deb0f63",
     "WikiUrl": "https://github.com/Kuuuube/Chatter_Generator/blob/master/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
