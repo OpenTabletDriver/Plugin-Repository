@@ -4,6 +4,7 @@
     "Description": "Circular mapping for tablet areas.",
     "PluginVersion": "3.1.0.0",
     "SupportedDriverVersion": "0.6.0.0",
+    "MaxSupportedDriverVersion": "0.6.0.4",
     "RepositoryUrl": "https://github.com/Kuuuube/Circular_Area",
     "DownloadUrl": "https://github.com/Kuuuube/Circular_Area/releases/download/3.1.0/3.1.0_release_Circular_Area.zip",
     "CompressionFormat": "zip",
