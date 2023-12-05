@@ -36,7 +36,7 @@ Plugin-Repository/Repository/{Version}/{Owner}/{Repository}/{Name}.json
 
 Example plugin metadata:
 
-```
+```json
 {
     "Name": "Example Plugin Name",
     "Owner": "Example Owner",
