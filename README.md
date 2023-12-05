@@ -29,10 +29,10 @@ Plugin-Repository/Repository/{Version}/{Owner}/{Repository}/{Name}.json
 | (Optional) MaxSupportedDriverVersion | The maximum OpenTabletDriver version the plugin functions on in four-part version number format. This should only be included in cases where a minor OpenTabletDriver version introduced breaking changes to a plugin. |
 | RepositoryUrl                        | The git repository url containing the plugin's source code.                                                                                                                                                            |
 | DownloadUrl                          | The direct download url for the plugin's release files in a compressed archive format. The plugin's dll files must be contained in the top-level directory of the compressed archive.                                  |
-| CompressionFormat                    | The compression format used by the compressed archive in the DownloadUrl field. Currently, `zip` is the only supported value.                                                                                                                   |
+| CompressionFormat                    | The compression format used by the compressed archive in the DownloadUrl field. Currently, `zip` is the only supported value.                                                                                          |
 | SHA256                               | The SHA265 hash of the compressed archive in the DownloadUrl field.                                                                                                                                                    |
 | (Optional) WikiUrl                   | A link to the plugin's documentation.                                                                                                                                                                                  |
-| LicenseIdentifier                    | The plugin's SPDX license identifier(s), separated by comma.                                                                                                                                                                                          |
+| LicenseIdentifier                    | The plugin's SPDX license identifier(s), separated by comma.                                                                                                                                                           |
 
 Example plugin metadata:
 
