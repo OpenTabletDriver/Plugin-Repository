@@ -32,7 +32,7 @@ Plugin-Repository/Repository/{Version}/{Owner}/{Repository}/{Name}.json
 | CompressionFormat                    | The compression format used by the compressed archive in the DownloadUrl field. `zip` is preferred.                                                                                                                    |
 | SHA256                               | The SHA265 hash of the compressed archive in the DownloadUrl field.                                                                                                                                                    |
 | (Optional) WikiUrl                   | A link to the plugin's documentation.                                                                                                                                                                                  |
-| LicenseIdentifier                    | The plugin's license name(s).                                                                                                                                                                                          |
+| LicenseIdentifier                    | The plugin's SPDX license identifier(s), separated by comma.                                                                                                                                                                                          |
 
 Example plugin metadata:
 
