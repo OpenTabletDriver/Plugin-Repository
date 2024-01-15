@@ -1,0 +1,13 @@
+{
+  "Name": "Adryzz's Custom Filter",
+  "Owner": "Kuuuube",
+  "Description": "The Ultimate filter, allowing you to use any polynomial as a filter without having to write any code!",
+  "PluginVersion": "2.3.0.0",
+  "SupportedDriverVersion": "0.6.3.0",
+  "RepositoryUrl": "https://github.com/Kuuuube/CustomFilter",
+  "DownloadUrl": "https://github.com/Kuuuube/CustomFilter/releases/download/v2.3.0/CustomFilter.zip",
+  "CompressionFormat": "zip",
+  "SHA256": "a7f683bea81ad4fa050172bbccef91e1ee981d852956823d7dc0734e97f8eb87",
+  "WikiUrl": "https://github.com/Kuuuube/CustomFilter/blob/master/README.md",
+  "LicenseIdentifier": "GPL-3.0-only"
+}

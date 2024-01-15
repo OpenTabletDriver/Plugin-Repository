@@ -4,6 +4,7 @@
     "Description": "Randomizes tablet area within given parameters.",
     "PluginVersion": "0.2.1.0",
     "SupportedDriverVersion": "0.6.0.0",
+    "MaxSupportedDriverVersion": "0.6.0.4",
     "RepositoryUrl": "https://github.com/Kuuuube/Tablet_Area_Randomizer",
     "DownloadUrl": "https://github.com/Kuuuube/Tablet_Area_Randomizer/releases/download/0.2.1/0.2.1_release_Tablet_Area_Randomizer.zip",
     "CompressionFormat": "zip",
