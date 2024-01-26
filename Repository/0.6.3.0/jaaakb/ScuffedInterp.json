@@ -1,0 +1,13 @@
+{
+    "Name": "jaaakb's ScuffedInter/Extrapolator",
+    "Owner": "asrfggafgsdf",
+    "Description": "Fast direct interpolation with partial/full prediction option",
+    "PluginVersion": "1.0.0",
+    "SupportedDriverVersion": "0.6.3.0",
+    "RepositoryUrl": "https://github.com/asrfggafgsdf/scuffed-interp-extrap",
+    "DownloadUrl": "https://github.com/asrfggafgsdf/scuffed-interp-extrap/releases/download/v1.0.0/ScuffedInterp.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "CE97CB81753AAB8EF6138CD4574EB7D54102845F238721EE228ED5003FF0EA34",
+    "WikiUrl": "https://github.com/asrfggafgsdf/scuffed-interp-extrap/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
