@@ -1,0 +1,13 @@
+{
+    "Name": "Additional Keys",
+    "Owner": "Gess1t",
+    "Description": "Allow for the use of additional Fxx & Media keys",
+    "PluginVersion": "1.0.0",
+    "SupportedDriverVersion": "0.5.3.1",
+    "RepositoryUrl": "https://github.com/Mrcubix/Additional-Keys",
+    "DownloadUrl": "https://github.com/Mrcubix/Additional-Keys/releases/download/1.0.0/Additional-Keys-0.5.x-1.0.0.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "de2b48eaad2b0ef8e7c8a25bf17a0971c0efca9c510d3ea1349416f5d09782cd",
+    "WikiUrl": "https://github.com/Mrcubix/Additional-Keys",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
