@@ -1,0 +1,13 @@
+{
+    "Name": "Enhanced Output Mode",
+    "Owner": "Gess1t",
+    "Description": "Enhanced Output Mode for OpenTabletDriver (Touch Support, Windows Onk & VMulti support, ...)",
+    "PluginVersion": "1.0.8",
+    "SupportedDriverVersion": "0.6.4.0",
+    "RepositoryUrl": "https://github.com/Mrcubix/OTD.EnhancedOutputMode",
+    "DownloadUrl": "https://github.com/Mrcubix/OTD.EnhancedOutputMode/releases/download/PRE-1.0.8-0.6.x/OTD.EnhancedOutputMode-0.6.x.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "d8e98418802b7ccd32cfb9aca04d0d10ae783e74826813e5020e776fc0f30094",
+    "WikiUrl": "https://github.com/Mrcubix/OTD.EnhancedOutputMode",
+    "LicenseIdentifier": "GPL-3.0-only"
+}

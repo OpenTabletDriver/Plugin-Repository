@@ -1,0 +1,13 @@
+{
+    "Name": "OTD.Backport",
+    "Owner": "Gess1t",
+    "Description": "Backport changes made after OTD 0.5.3's release that are compatible with 0.5.2 up to 0.5.3.3",
+    "PluginVersion": "1.0.6",
+    "SupportedDriverVersion": "0.5.2",
+    "RepositoryUrl": "https://github.com/Mrcubix/OTD.Backport/",
+    "DownloadUrl": "https://github.com/Mrcubix/OTD.Backport/releases/download/1.0.6/OTD.Backport.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "f1991b6fd9379c3d2614315f661aef6046aac747ec1829f187a9352f27a30d09",
+    "WikiUrl": "https://mrcubix.github.io/OTD.Backport-Wiki/",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
