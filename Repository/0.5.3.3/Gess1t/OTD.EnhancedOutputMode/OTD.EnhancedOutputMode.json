@@ -1,7 +1,7 @@
 {
-    "Name": "Enhanced Output Mode",
+    "Name": "Enhanced Output Modes",
     "Owner": "Gess1t",
-    "Description": "Enhanced Output Mode for OpenTabletDriver (Touch Support, Windows Onk & VMulti support, plugin report access, ...)",
+    "Description": "Enhanced Output Modes for OpenTabletDriver (Adds support for Touch Input, Plugin report access, ...)",
     "PluginVersion": "1.0.8",
     "SupportedDriverVersion": "0.5.3.3",
     "RepositoryUrl": "https://github.com/Mrcubix/OTD.EnhancedOutputMode",
