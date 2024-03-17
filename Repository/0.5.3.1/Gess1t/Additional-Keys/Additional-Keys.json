@@ -1,7 +1,7 @@
 {
     "Name": "Additional Keys",
     "Owner": "Gess1t",
-    "Description": "Allow for the use of additional Fxx & Media keys",
+    "Description": "Allow for the use of additional Fxx AND Media keys",
     "PluginVersion": "1.0.0",
     "SupportedDriverVersion": "0.5.3.1",
     "RepositoryUrl": "https://github.com/Mrcubix/Additional-Keys",
