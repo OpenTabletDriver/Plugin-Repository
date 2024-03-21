@@ -2,12 +2,12 @@
     "Name": "Temporal Resampler",
     "Owner": "shmkle",
     "Description": "Input resampler for higher hz monitors.",
-    "PluginVersion": "1.2.0",
+    "PluginVersion": "1.2.1",
     "SupportedDriverVersion": "0.6.4.0",
     "RepositoryUrl": "https://github.com/shmkle/TemporalResampler",
-    "DownloadUrl": "https://github.com/shmkle/TemporalResampler/releases/download/v1.2.0/TemporalResampler.zip",
+    "DownloadUrl": "https://github.com/shmkle/TemporalResampler/releases/download/v1.2.1/TemporalResampler.zip",
     "CompressionFormat": "zip",
-    "SHA256": "af123fb6f432952b00478acd31fa3f38f3ab34fae26276d68377cf52e2a757bb",
+    "SHA256": "82ba96a5140e0a06cedd684245b77ac186dad4e822b888d017f9f3e1c7bf676f",
     "WikiUrl": "https://github.com/shmkle/TemporalResampler/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
