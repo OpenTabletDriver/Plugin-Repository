@@ -2,12 +2,12 @@
     "Name": "Wheel Addon",
     "Owner": "Gess1t",
     "Description": "Add support for the touch wheel on wacom tablets (SEE REPO FOR EXTRA DEPENDENCIES)",
-    "PluginVersion": "1.0.2",
+    "PluginVersion": "1.0.4",
     "SupportedDriverVersion": "0.5.3.3",
     "RepositoryUrl": "https://github.com/Mrcubix/WheelAddon",
-    "DownloadUrl": "https://github.com/Mrcubix/WheelAddon/releases/download/1.0.2-re/Wheel-Addon.Installer.zip",
+    "DownloadUrl": "https://github.com/Mrcubix/WheelAddon/releases/download/1.0.4/Wheel-Addon.Installer.zip",
     "CompressionFormat": "zip",
-    "SHA256": "048ea558f2d9cbcd77a62704a7cf43c29f9a77d6d9db99a19a26a72256c87ec3",
+    "SHA256": "fe246ef9d3b3f05937185ec92ebbe0762f84d62d7574e4c9ab42fefdc763abef",
     "WikiUrl": "https://github.com/Mrcubix/WheelAddon",
     "LicenseIdentifier": "MIT"
 }
