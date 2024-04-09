@@ -1,0 +1,13 @@
+{
+    "Name": "Touch Gestures Installer",
+    "Owner": "Gess1t",
+    "Description": "Adds support for Touch Gestures to OpenTabletDriver",
+    "PluginVersion": "1.0.1",
+    "SupportedDriverVersion": "0.5.3.3",
+    "RepositoryUrl": "https://github.com/Mrcubix/Touch-Gestures/",
+    "DownloadUrl": "https://github.com/Mrcubix/Touch-Gestures/releases/download/1.0.1/Touch-Gestures.Installer-0.5.x.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "0cb10916a9e6c8872211d1f80ce67a84b3c0573b192426271e9bc934242a3141",
+    "WikiUrl": "https://mrcubix.github.io/Touch-Gestures-Doc/",
+    "LicenseIdentifier": "MIT"
+}
