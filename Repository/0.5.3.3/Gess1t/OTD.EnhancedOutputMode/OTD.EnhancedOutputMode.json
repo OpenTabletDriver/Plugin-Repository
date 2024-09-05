@@ -2,12 +2,12 @@
     "Name": "Enhanced Output Modes",
     "Owner": "Gess1t",
     "Description": "Enhanced Output Modes for OpenTabletDriver (Adds support for Touch Input, Plugin report access, ...)",
-    "PluginVersion": "1.1.3",
+    "PluginVersion": "1.1.5",
     "SupportedDriverVersion": "0.5.3.3",
     "RepositoryUrl": "https://github.com/Mrcubix/OTD.EnhancedOutputMode",
-    "DownloadUrl": "https://github.com/Mrcubix/OTD.EnhancedOutputMode/releases/download/1.1.3/OTD.EnhancedOutputMode-0.5.x.zip",
+    "DownloadUrl": "https://github.com/Mrcubix/OTD.EnhancedOutputMode/releases/download/1.1.5/OTD.EnhancedOutputMode-0.5.x.zip",
     "CompressionFormat": "zip",
-    "SHA256": "fdb050a95f060c359fc217deacac20173890ce1b31c451b2e784dadc23322792",
+    "SHA256": "efeae01f455eaebf42daa273235dbc61923c66c1b61dd48f13e0fcd007f8b01c",
     "WikiUrl": "https://github.com/Mrcubix/OTD.EnhancedOutputMode",
     "LicenseIdentifier": "GPL-3.0-only"
 }
