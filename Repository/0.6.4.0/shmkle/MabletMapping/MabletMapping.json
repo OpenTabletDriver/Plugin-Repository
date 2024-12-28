@@ -2,12 +2,12 @@
     "Name": "MabletMapping",
     "Owner": "shmkle",
     "Description": "A mapping tool for mablet players.",
-    "PluginVersion": "1.2.0",
+    "PluginVersion": "1.2.1",
     "SupportedDriverVersion": "0.6.4.0",
     "RepositoryUrl": "https://github.com/shmkle/MabletMapping",
-    "DownloadUrl": "https://github.com/shmkle/MabletMapping/releases/download/v1.2.0/MabletMapping.zip",
+    "DownloadUrl": "https://github.com/shmkle/MabletMapping/releases/download/v1.2.1/MabletMapping.zip",
     "CompressionFormat": "zip",
-    "SHA256": "fb950fb920ac84083d4de4d58a4b9a275c06d346c668983b4837f9b131a85cee",
+    "SHA256": "4bf40c2dbe4edfe7956b9d04cdec636f2d5a26585d0e452fc0440fd5de8bec0d",
     "WikiUrl": "https://github.com/shmkle/MabletMapping/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
