@@ -1,0 +1,13 @@
+{
+    "Name": "Relative Mode Area",
+    "Owner": "Gess1t",
+    "Description": "A plugin to limit the user area.",
+    "PluginVersion": "1.0.3",
+    "SupportedDriverVersion": "0.6.4.0",
+    "RepositoryUrl": "https://github.com/Mrcubix/Scroll-Bindings/",
+    "DownloadUrl": "https://github.com/Mrcubix/RelativeModeArea/releases/download/1.0.3/RelativeModeArea.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "baf23d882bb2d6e788ee3ab77bbc7fe080dcf1262702eca27ca697218c68c9f1",
+    "WikiUrl": "https://github.com/Mrcubix/RelativeModeArea/blob/master/README.md#how-to-use",
+    "LicenseIdentifier": "MIT"
+}
