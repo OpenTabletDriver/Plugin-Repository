@@ -1,13 +1,13 @@
 {
     "Name": "Scroll Bindings",
     "Owner": "Gess1t",
-    "Description": "Adds support for scrolling using aux keys or others on Windows & Linux.",
-    "PluginVersion": "1.0.3",
+    "Description": "Adds support for scrolling using aux keys or others on Windows, Linux & MacOS.",
+    "PluginVersion": "1.0.4",
     "SupportedDriverVersion": "0.5.3.3",
     "RepositoryUrl": "https://github.com/Mrcubix/Scroll-Bindings/",
-    "DownloadUrl": "https://github.com/Mrcubix/Scroll-Bindings/releases/download/1.0.3/ScrollBindings-0.5.x.zip",
+    "DownloadUrl": "https://github.com/Mrcubix/Scroll-Bindings/releases/download/1.0.4/ScrollBindings-0.5.x.zip",
     "CompressionFormat": "zip",
-    "SHA256": "1eb251cb3f026d6056a192621eea4b735e3855a5db212927fecad620edfe569c",
+    "SHA256": "b38543047d11df236683aa0c4ee0f2f3d50c04efd41b5452b05da25941dfc303",
     "WikiUrl": "https://github.com/Mrcubix/Scroll-Bindings/",
     "LicenseIdentifier": "MIT"
 }
