@@ -2,12 +2,12 @@
     "Name": "LED Sandbox",
     "Owner": "Gess1t",
     "Description": "allow users to use images of 64x128 resolution and show them on any of the 2 LED display contained within Wacom PTK-x40 tablets.",
-    "PluginVersion": "1.0.4",
+    "PluginVersion": "1.0.5",
     "SupportedDriverVersion": "0.5.3.3",
     "RepositoryUrl": "https://github.com/Mrcubix/OTD.LEDSandbox",
-    "DownloadUrl": "https://github.com/Mrcubix/OTD.LEDSandbox/releases/download/1.0.4-0.5.x/OTD.LEDSandbox-x86-0.5.x.zip",
+    "DownloadUrl": "https://github.com/Mrcubix/OTD.LEDSandbox/releases/download/1.0.5-0.5.x/OTD.LEDSandbox-x86-0.5.x.zip",
     "CompressionFormat": "zip",
-    "SHA256": "b7a7a63ac5c049369f9ef037e0184c52371d7e8e47f8de6d2ea597d6df371aa0",
+    "SHA256": "13433a0d3429703f68180e06d3d1762fcfd69bedf8842e5ccef46e7268579342",
     "WikiUrl": "https://github.com/Mrcubix/OTD.LEDSandbox",
     "LicenseIdentifier": "MIT"
 }
