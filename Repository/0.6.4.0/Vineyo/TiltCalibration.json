@@ -1,0 +1,13 @@
+{
+    "Name": "Tilt Calibration",
+    "Owner": "Vineyo",
+    "Description": "Calibrates the offset by tilt",
+    "PluginVersion": "1.0.0",
+    "SupportedDriverVersion": "0.6.4.0",
+    "RepositoryUrl": "https://github.com/Vineyo/Tilt-Calibration",
+    "DownloadUrl": "https://github.com/Vineyo/Tilt-Calibration/releases/download/v1.0.0/tilt_calibrate.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "4998120d1e53b83d7df0e8ecb0d4440bd2f09a545d711c2049a4ecb2b54ef0f1",
+    "WikiUrl": "https://github.com/Vineyo/Tilt-Calibration/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
