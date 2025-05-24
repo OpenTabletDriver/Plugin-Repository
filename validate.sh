@@ -28,6 +28,23 @@ test_dependencies() {
   test_dep "find"
 }
 
+test_repository_structure() {
+  cd "${ROOTDIR}"
+  if [ ! -d "Repository" ]; then
+    print_clr ${ERROR} " Repository is missing expected 'Repository' folder"
+    exit 104
+  fi
+  while read LINE; do
+    if ! [[ "$LINE" =~ ^Repository/[0-9]([.][0-9]){3}(/[^/]+){2}/[^/]+json$ ]]; then
+      error=$?
+      print_clr ${ERROR} "  FAIL: Invalid path ${LINE}"
+    fi
+  done < <(find Repository/ -iname '*.json' -type f)
+
+  [ ! -z "$error" ] && exit $error
+  print_clr ${SUCCESS}  "  SUCCESS: Repository directory structure"
+}
+
 check_sha256() {
   [ "$#" -ne 2 ] && exit 103;
 
@@ -54,6 +71,7 @@ validate() {
 }
 
 test_dependencies
+test_repository_structure
 
 for file in ${ROOTDIR}/**; do
   [ "${file: -5}" == ".json" ] && validate "${file}"
