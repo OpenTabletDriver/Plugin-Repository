@@ -25,6 +25,7 @@ test_dependencies() {
   test_dep "sha256sum"
   test_dep "jq"
   test_dep "xargs"
+  test_dep "find"
 }
 
 check_sha256() {
