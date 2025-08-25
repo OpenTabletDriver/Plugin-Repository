@@ -2,12 +2,12 @@
     "Name": "Preset Bindings",
     "Owner": "Gess1t",
     "Description": "A plugin for OTD 0.6.x to bind preset to tablet keys",
-    "PluginVersion": "1.1.1",
+    "PluginVersion": "1.2.0",
     "SupportedDriverVersion": "0.6.0.3",
     "RepositoryUrl": "https://github.com/Mrcubix/Preset.Binding",
-    "DownloadUrl": "https://github.com/Mrcubix/Preset.Binding/releases/download/1.1.1/Preset.Binding.zip",
+    "DownloadUrl": "https://github.com/Mrcubix/Preset.Binding/releases/download/1.2.0/Preset.Binding.zip",
     "CompressionFormat": "zip",
-    "SHA256": "56eb62b0366ba316b3338c752293cdf1aa179cfdce27d902911d557e29d52c90",
+    "SHA256": "e4fb4f014298fc64578b1c307279f33fb57fc88508ca57c5cf7e74f42ad4fb30",
     "WikiUrl": "https://github.com/Mrcubix/Preset.Binding",
     "LicenseIdentifier": "MIT"
 }
