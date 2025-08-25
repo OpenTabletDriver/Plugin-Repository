@@ -2,12 +2,12 @@
     "Name": "UX Remote",
     "Owner": "Gess1t",
     "Description": "UX Plugin that allows developers to perform some actions on the UX.",
-    "PluginVersion": "1.0.1",
+    "PluginVersion": "1.0.2",
     "SupportedDriverVersion": "0.6.4.0",
     "RepositoryUrl": "https://github.com/Mrcubix/OTD.UX.Remote",
-    "DownloadUrl": "https://github.com/Mrcubix/OTD.UX.Remote/releases/download/1.0.1/OTD.UX.Remote-0.6.x.zip",
+    "DownloadUrl": "https://github.com/Mrcubix/OTD.UX.Remote/releases/download/1.0.2/OTD.UX.Remote-0.6.x.zip",
     "CompressionFormat": "zip",
-    "SHA256": "dcff9e4a60abc4dba901c2361ef34a44160b48166d585a9f211516fb59c0dd1b",
+    "SHA256": "3e3b5ec38287450556e6f2683101d39323c9d05cfa895ce0ecd6c8ece461e9f7",
     "WikiUrl": "https://github.com/Mrcubix/OTD.UX.Remote",
     "LicenseIdentifier": "MIT"
 }
