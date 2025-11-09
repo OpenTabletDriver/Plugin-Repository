@@ -1,0 +1,13 @@
+{
+    "Name": "ScriptRunner",
+    "Owner": "Kuuuube",
+    "Description": "Bindable Script Launcher",
+    "PluginVersion": "0.5.0",
+    "SupportedDriverVersion": "0.6.6.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/VoiDPlugins",
+    "DownloadUrl": "https://github.com/Kuuuube/VoiDPlugins/releases/download/0.5.0/ScriptRunner.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "fb11be1d56cba11d5532b43c7bd8dee75032b3ad68cc9d7b9876d02b69e06524",
+    "WikiUrl": "https://github.com/Kuuuube/VoiDPlugins/wiki/ScriptRunner",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
