@@ -4,6 +4,7 @@
     "Description": "Classic VMulti Output Mode",
     "PluginVersion": "0.3.2.2",
     "SupportedDriverVersion": "0.6.0.4",
+    "MaxSupportedDriverVersion": "0.6.0.4",
     "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
     "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.3.2.2/VMultiMode.zip",
     "CompressionFormat": "zip",

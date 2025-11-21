@@ -4,6 +4,7 @@
     "Description": "Windows Ink Output Mode",
     "PluginVersion": "0.4.2",
     "SupportedDriverVersion": "0.6.1.0",
+    "MaxSupportedDriverVersion": "0.6.5.1",
     "RepositoryUrl": "https://github.com/X9VoiD/VoiDPlugins",
     "DownloadUrl": "https://github.com/X9VoiD/VoiDPlugins/releases/download/0.4.2/WindowsInk.zip",
     "CompressionFormat": "zip",
