@@ -2,12 +2,12 @@
     "Name": "Windows Ink",
     "Owner": "Kuuuube",
     "Description": "Windows Ink Output Mode",
-    "PluginVersion": "0.5.0",
+    "PluginVersion": "0.5.1",
     "SupportedDriverVersion": "0.6.6.0",
     "RepositoryUrl": "https://github.com/Kuuuube/VoiDPlugins",
-    "DownloadUrl": "https://github.com/Kuuuube/VoiDPlugins/releases/download/0.5.0/WindowsInk.zip",
+    "DownloadUrl": "https://github.com/Kuuuube/VoiDPlugins/releases/download/0.5.1/WindowsInk.zip",
     "CompressionFormat": "zip",
-    "SHA256": "78e66e161ac7b59a1a225ba8a380551847a210353e85aa611002964bdbf5fd21",
+    "SHA256": "5c9444202ae54527c4a9ab1db3284cafd9f2bd526feb60da58b66aa1ba1f8744",
     "WikiUrl": "https://github.com/Kuuuube/VoiDPlugins/wiki/WindowsInk",
     "LicenseIdentifier": "GPL-3.0-only"
 }
