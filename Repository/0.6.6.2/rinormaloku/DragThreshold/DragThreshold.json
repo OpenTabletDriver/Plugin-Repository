@@ -1,12 +1,12 @@
 {
     "Name": "Drag Threshold",
     "Owner": "rinormaloku",
-    "Description": "Adjusts the drag threshold for tablet input",
+    "Description": "Prevents Pen clicks to be registered as Pen drags due to tiny movements by setting a threshold that must be exceeded before it counts as a drag",
     "PluginVersion": "0.1.3",
     "SupportedDriverVersion": "0.6.6.2",
     "RepositoryUrl": "https://github.com/rinormaloku/DragThreshold",
-    "DownloadUrl": "https://github.com/rinormaloku/DragThreshold/releases/download/v0.1.3/DragThreshold.zip",
+    "DownloadUrl": "https://github.com/rinormaloku/DragThreshold/releases/download/v0.1.4/DragThreshold.zip",
     "CompressionFormat": "zip",
-    "SHA256": "8570933f9d37237a61e57cfebf41ad06b153d4e5f69a900b9d4f09e306a45818",
+    "SHA256": "0521409b26472a53842eaf6285fd155fc8b52a40495a4c5ba82abcc208a0ec8f",
     "LicenseIdentifier": "GPL-3.0-only"
 }
