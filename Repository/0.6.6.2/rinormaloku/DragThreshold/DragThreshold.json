@@ -2,11 +2,11 @@
     "Name": "Drag Threshold",
     "Owner": "rinormaloku",
     "Description": "Adjusts the drag threshold for tablet input",
-    "PluginVersion": "0.1.0",
+    "PluginVersion": "0.1.3",
     "SupportedDriverVersion": "0.6.6.2",
     "RepositoryUrl": "https://github.com/rinormaloku/DragThreshold",
-    "DownloadUrl": "https://github.com/rinormaloku/DragThreshold/releases/download/v0.1.0/DragThreshold.zip",
+    "DownloadUrl": "https://github.com/rinormaloku/DragThreshold/releases/download/v0.1.3/DragThreshold.zip",
     "CompressionFormat": "zip",
-    "SHA256": "7a4f2a4da9752111ad8d22256707ee5eae014607b92f0172579086c51b64a475",
+    "SHA256": "8570933f9d37237a61e57cfebf41ad06b153d4e5f69a900b9d4f09e306a45818",
     "LicenseIdentifier": "GPL-3.0-only"
 }
