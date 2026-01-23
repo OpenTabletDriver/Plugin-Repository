@@ -1,12 +1,13 @@
 {
-    "Name": "Drag Threshold",
+    "Name": "DragThreshold",
     "Owner": "rinormaloku",
     "Description": "Prevents Pen clicks to be registered as Pen drags due to tiny movements by setting a threshold that must be exceeded before it counts as a drag",
-    "PluginVersion": "0.1.5",
+    "PluginVersion": "1.6.0",
     "SupportedDriverVersion": "0.6.6.2",
     "RepositoryUrl": "https://github.com/rinormaloku/DragThreshold",
-    "DownloadUrl": "https://github.com/rinormaloku/DragThreshold/releases/download/v0.1.5/DragThreshold.zip",
+    "DownloadUrl": "https://github.com/rinormaloku/DragThreshold/releases/download/v1.6.0/DragThreshold.zip",
     "CompressionFormat": "zip",
-    "SHA256": "980cc1355d50fa155475bd1167e8b32293d71c04ad38317bb4c820d1a2f222b8",
+    "SHA256": "467cf5c1a683ad3def12660c3ff192af34bccc5e486c1b0592c55a8a986841ef",
+    "WikiUrl": "",
     "LicenseIdentifier": "GPL-3.0-only"
 }
