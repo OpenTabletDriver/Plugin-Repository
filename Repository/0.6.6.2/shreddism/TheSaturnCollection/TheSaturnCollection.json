@@ -1,0 +1,13 @@
+{
+    "Name": "The Saturn Collection",
+    "Owner": "shreddism",
+    "Description": "The Enhanced Filter Experience.\n - Configurable antichatter with virtually 0 extra latency and aspect ratio compensation\n - Multiple available optional minimal-latency interpolation methods\n - Behavioral tweaks to reduce interpolation press/lift bugging on Wacom PTK-x70 tablets\n ...and more!",
+    "PluginVersion": "0.6.5",
+    "SupportedDriverVersion": "0.6.6.2",
+    "RepositoryUrl": "https://github.com/shreddism/TheSaturnCollection",
+    "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/0.6.5/Saturn.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "d3356bae316d21c6ee171208ef8b9ed00a92002fa2a9ee7684b55e534e22e7b2",
+    "WikiUrl": "https://github.com/shreddism/TheSaturnCollection/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
