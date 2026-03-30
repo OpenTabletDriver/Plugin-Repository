@@ -1,0 +1,12 @@
+{
+    "Name": "Key + Mouse Binding",
+    "Owner": "dsarno",
+    "Description": "Combines keyboard key presses with a mouse button click in a single binding.\nUseful for 3D applications (Blender, Maya, etc.) that use modifier+mouse combos like Shift+MMB.",
+    "PluginVersion": "1.0.0",
+    "SupportedDriverVersion": "0.6.6.2",
+    "RepositoryUrl": "https://github.com/dsarno/OTD-KeyMouseBinding",
+    "DownloadUrl": "https://github.com/dsarno/OTD-KeyMouseBinding/releases/download/v1.0.0/KeyMouseBinding-0.6.6.2-1.0.0.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "00fdfd74431fe678e67048f2fa337edb7c7618e5cf502765a135940f6e487e64",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
