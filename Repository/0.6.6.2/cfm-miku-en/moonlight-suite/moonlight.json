@@ -5,7 +5,7 @@
     "PluginVersion": "1.0.0.0",
     "SupportedDriverVersion": "0.6.6.2",
     "RepositoryUrl": "https://github.com/cfm-miku-en/moonlight-suite/tree/main",
-    "DownloadUrl": "https://github.com/cfm-miku-en/moonlight-suite/releases/download/moon/MoonlightSuite.zip",
+    "DownloadUrl": "https://github.com/cfm-miku-en/moonlight-suite/releases/download/v1.0.0/MoonlightSuite.zip",
     "CompressionFormat": "zip",
     "SHA256": "3742b36d6ef6fcea16797f1bc1a3a1d9592ff39df55bdc3b443b425a35669815",
     "WikiUrl": "https://github.com/cfm-miku-en/moonlight-suite/blob/main/README.md",
