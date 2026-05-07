@@ -1,0 +1,13 @@
+{
+    "Name": "Toggle Key Binding",
+    "Owner": "surue-s",
+    "Description": "Adds two new binding types for pen buttons. Toggle switches between two keys on each press. Hold sends one key while held and returns to another on release. Useful for switching between brush and eraser in any program.",
+    "PluginVersion": "1.1.0.0",
+    "SupportedDriverVersion": "0.6.0.0",
+    "RepositoryUrl": "https://github.com/surue-s/otd-toggle-plugin",
+    "DownloadUrl": "https://github.com/surue-s/otd-toggle-plugin/releases/download/v1.1.0/otd-toggle-plugin-v1.1.0.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "9b345bb6b9585debc6ad9340e04e04553054527cd127165bcdb40fd48b8b4df6",
+    "WikiUrl": "https://github.com/surue-s/otd-toggle-plugin/blob/main/Readme.md",
+    "LicenseIdentifier": "MIT"
+}
