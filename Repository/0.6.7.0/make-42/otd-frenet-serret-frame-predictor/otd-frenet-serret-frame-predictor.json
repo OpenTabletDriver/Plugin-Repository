@@ -1,0 +1,13 @@
+{
+    "Name": "OnTake's Frenet-Serret Frame Predictor",
+    "Owner": "make-42",
+    "Description": "Predicts future pen position using Frenet-Serret frame mathematics, reducing perceived input latency by extrapolating cursor movement along the natural curve of the stroke.",
+    "PluginVersion": "1.1.0",
+    "SupportedDriverVersion": "0.6.7.0",
+    "RepositoryUrl": "https://github.com/make-42/otd-frenet-serret-frame-predictor",
+    "DownloadUrl": "https://github.com/make-42/otd-frenet-serret-frame-predictor/releases/download/v1.1/FrenetSerretFramePredictor.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "47e06b638616e7705e35acd8f0bd0a1e81cdc4e47868841bd8f310826dffba5c",
+    "WikiUrl": "https://github.com/make-42/otd-frenet-serret-frame-predictor",
+    "LicenseIdentifier": "MIT"
+}
