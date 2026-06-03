@@ -2,12 +2,12 @@
     "Name": "Wireless Kit Addon",
     "Owner": "Gess1t",
     "Description": "Adds support for the Wireless Kit available for Wacom CTH tablets",
-    "PluginVersion": "1.0.4",
+    "PluginVersion": "1.0.5",
     "SupportedDriverVersion": "0.6.4.0",
     "RepositoryUrl": "https://github.com/Mrcubix/WirelessKitAddon",
-    "DownloadUrl": "https://github.com/Mrcubix/WirelessKitAddon/releases/download/1.0.4/WirelessKitAddon-0.6.x.zip",
+    "DownloadUrl": "https://github.com/Mrcubix/WirelessKitAddon/releases/download/1.0.5/WirelessKitAddon-0.6.x.zip",
     "CompressionFormat": "zip",
-    "SHA256": "928ad9a978cfc6ce078f6bf2400a34284f0a5d090db3cb9e8ab89ed456a51074",
+    "SHA256": "885ad990cbdcd69e810449d91e33cacc74e1c02c1cc8fed832959aa73822ab26",
     "WikiUrl": "https://github.com/Mrcubix/WirelessKitAddon/blob/master/README.md",
     "LicenseIdentifier": "MIT"
 }
