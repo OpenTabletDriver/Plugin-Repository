@@ -1,0 +1,13 @@
+{
+    "Name": "Windows Pen Pointer",
+    "Owner": "Kuuuube",
+    "Description": "Basic Windows Ink Output Mode",
+    "PluginVersion": "0.5.2",
+    "SupportedDriverVersion": "0.6.6.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/VoiDPlugins",
+    "DownloadUrl": "https://github.com/Kuuuube/VoiDPlugins/releases/download/0.5.2/WindowsPenPointer.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "ca511f453405364fb7a07634c8f4de7e0bed81ed9c176ecd5a26dc5fb892be14",
+    "WikiUrl": "https://github.com/Kuuuube/VoiDPlugins/wiki/WindowsPenPointer",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
