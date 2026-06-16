@@ -1,13 +1,13 @@
 {
     "Name": "The Saturn Collection",
     "Owner": "shreddism",
-    "Description": "The Enhanced Plugin Experience.\n - Configurable antichatter with virtually 0 extra latency\n - Optional interpolation that doesn't mess with filtering\n - Greatly improved prediction and reduced bugs on certain tablets\n - Output mode with realtime area changing and bindable actions\n ...and more!",
-    "PluginVersion": "0.10.0",
+    "Description": "The Enhanced Plugin Experience.\n - Configurable antichatter with virtually 0 extra latency\n - Prediction improvements and bugfixing on certain tablets\n - Massive improvements in the above as well as interpolation timing for Wacom PTK-x70 tablets\n - Output mode with realtime area changing and bindable actions\n ...and more!",
+    "PluginVersion": "0.10.2",
     "SupportedDriverVersion": "0.6.7",
     "RepositoryUrl": "https://github.com/shreddism/TheSaturnCollection",
-    "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/0.10.0/Saturn.zip",
+    "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/0.10.2/Saturn.zip",
     "CompressionFormat": "zip",
-    "SHA256": "79d03c73529a49d766983342fbbb3e5bdb997f339432401ff0d8ee484040fadf",
+    "SHA256": "366a576900fb7597b723378d59361b611aa197dffea1b49d9ac45e1ba90ba795",
     "WikiUrl": "https://github.com/shreddism/TheSaturnCollection/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
