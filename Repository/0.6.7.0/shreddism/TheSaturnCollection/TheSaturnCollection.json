@@ -3,7 +3,7 @@
     "Owner": "shreddism",
     "Description": "The Enhanced Plugin Experience.\n - Configurable antichatter with virtually 0 extra latency\n - Prediction improvements and bugfixing on certain tablets\n - Massive improvements in the above as well as interpolation timing for Wacom PTK-x70 tablets\n - Output mode with realtime area changing and bindable actions\n ...and more!",
     "PluginVersion": "1.0.0",
-    "SupportedDriverVersion": "0.6.7",
+    "SupportedDriverVersion": "0.6.7.0",
     "RepositoryUrl": "https://github.com/shreddism/TheSaturnCollection",
     "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/1.0.0/Saturn.zip",
     "CompressionFormat": "zip",
