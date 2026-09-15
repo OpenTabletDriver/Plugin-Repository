@@ -1,6 +1,7 @@
 {
   "Name": "Adryzz's Custom Filter",
   "Owner": "Kuuuube",
+  "Creator": "Adryzz",
   "Description": "The Ultimate filter, allowing you to use any polynomial as a filter without having to write any code!",
   "PluginVersion": "2.3.0.0",
   "SupportedDriverVersion": "0.6.3.0",

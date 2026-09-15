@@ -1,6 +1,7 @@
 {
     "Name": "ScriptRunner",
     "Owner": "Kuuuube",
+    "Creator": "X9VoiD",
     "Description": "Bindable Script Launcher",
     "PluginVersion": "0.5.0",
     "SupportedDriverVersion": "0.6.6.0",

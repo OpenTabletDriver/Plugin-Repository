@@ -1,6 +1,7 @@
 {
     "Name": "VMultiMode",
     "Owner": "Kuuuube",
+    "Creator": "X9VoiD",
     "Description": "Classic VMulti Output Mode",
     "PluginVersion": "0.5.2",
     "SupportedDriverVersion": "0.6.6.0",

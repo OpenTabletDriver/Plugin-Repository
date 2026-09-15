@@ -1,0 +1,14 @@
+{
+    "Name": "DualActionBinds",
+    "Owner": "Kuuuube",
+    "Creator": "jamesbt365",
+    "Description": "Bindings that have different actions on press and release.",
+    "PluginVersion": "1.1.2",
+    "SupportedDriverVersion": "0.6.4.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/DualActionBinds",
+    "DownloadUrl": "https://github.com/Kuuuube/DualActionBinds/releases/download/v1.1.2/DualActionBinds.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "1635c130338adc189ce833290eeb4dc8970547dfb92660828821144d15c4a281",
+    "WikiUrl": "https://github.com/Kuuuube/DualActionBinds/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
