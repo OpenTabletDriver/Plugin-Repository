@@ -1,0 +1,13 @@
+{
+  "Name": "Pen Pan/Scroll",
+  "Owner": "Oliver Iborra-MacDonald",
+  "Description": "Wacom-style pen button pan/scroll for macOS. Hold a pen button, touch the nib, and drag to scroll; the pointer stays put while the screen moves. Built for OpenTabletDriver 0.6.7.",
+  "PluginVersion": "1.0.0.0",
+  "SupportedDriverVersion": "0.6.7.0",
+  "RepositoryUrl": "https://github.com/djoliverm/otd-penpanscroll",
+  "DownloadUrl": "https://github.com/djoliverm/otd-penpanscroll/releases/download/v1.0.0/PenPanScroll-1.0.0.zip",
+  "CompressionFormat": "zip",
+  "SHA256": "53d79dde89040a74d3325790a83220e0f6e05fd90c9ac68c401a91c0e2d7dad4",
+  "WikiUrl": "https://github.com/djoliverm/otd-penpanscroll/blob/main/README.md",
+  "LicenseIdentifier": "MIT"
+}
