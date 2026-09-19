@@ -1,13 +1,13 @@
 {
     "Name": "Native Hold Key",
     "Owner": "vansearch",
-    "Description": "Native macOS hold-key bindings with Quartz autorepeat and safe key release.",
-    "PluginVersion": "1.0.0.0",
+    "Description": "Cross-platform hold-key bindings with native autorepeat and safe key release.",
+    "PluginVersion": "1.1.0.0",
     "SupportedDriverVersion": "0.6.7.0",
     "RepositoryUrl": "https://github.com/vansearch/NativeHoldKey",
-    "DownloadUrl": "https://github.com/vansearch/NativeHoldKey/releases/download/1.0.0.0/NativeHoldKey-1.0.0.0.zip",
+    "DownloadUrl": "https://github.com/vansearch/NativeHoldKey/releases/download/1.1.0.0/NativeHoldKey-1.1.0.0.zip",
     "CompressionFormat": "zip",
-    "SHA256": "67751b63c09289aaf77d1f3b634446d31f3b1e3945da64f94c44283ab519d1db",
+    "SHA256": "8d0295d5d7cd7cf81519050d2d651dca562e1525e1003c7edc6a7faab9f2bb9d",
     "WikiUrl": "https://github.com/vansearch/NativeHoldKey#readme",
     "LicenseIdentifier": "MIT"
 }
