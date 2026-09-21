@@ -1,0 +1,13 @@
+{
+    "Name": "A perfect filter",
+    "Owner": "Vestaia",
+    "Description": "Rejects tablet noise without conventional smoothing using semi-spectral latent reconstruction to create a responsive 1000 Hz trajectory.",
+    "PluginVersion": "1.1.2.0",
+    "SupportedDriverVersion": "0.6.7.0",
+    "RepositoryUrl": "https://github.com/Vestaia/ThePerfectFilter",
+    "DownloadUrl": "https://github.com/Vestaia/ThePerfectFilter/releases/download/v1.1.2/ThePerfectFilter-v1.1.2.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "F6B8B6A07DC3FC0D97637CEB5292FD4487C91A06F439FC311D8E7663A2B4C36C",
+    "WikiUrl": "https://github.com/Vestaia/ThePerfectFilter/blob/main/Readme.md",
+    "LicenseIdentifier": "SUL-1.0"
+}
