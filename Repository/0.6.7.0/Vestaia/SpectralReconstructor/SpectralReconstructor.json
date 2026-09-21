@@ -1,0 +1,13 @@
+{
+    "Name": "Spectral Reconstructor",
+    "Owner": "Vestaia",
+    "Description": "Anti-chatter filter without smoothing. Far greater noise rejection than conventional filters without distorting inputs. Optional 0-latency operation with modest noise supression (~50%). Integrated resampler.",
+    "PluginVersion": "1.1.5.0",
+    "SupportedDriverVersion": "0.6.7.0",
+    "RepositoryUrl": "https://github.com/Vestaia/Spectral-Reconstructor",
+    "DownloadUrl": "https://github.com/Vestaia/Spectral-Reconstructor/releases/download/v1.1.5/Spectral-Reconstructor-v1.1.5.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "ea9ddccfaf8b83c7d3f19ed3f1c09eb7fcd99ae72b4c4b71b38d768b2706b148",
+    "WikiUrl": "https://github.com/Vestaia/Spectral-Reconstructor/blob/main/Readme.md",
+    "LicenseIdentifier": "SUL-1.0"
+}
