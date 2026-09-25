@@ -1,0 +1,13 @@
+{
+    "Name": "Native Hold Key",
+    "Owner": "vansearch",
+    "Description": "Cross-platform hold-key bindings with native autorepeat and safe key release.",
+    "PluginVersion": "1.1.0.0",
+    "SupportedDriverVersion": "0.6.7.0",
+    "RepositoryUrl": "https://github.com/vansearch/NativeHoldKey",
+    "DownloadUrl": "https://github.com/vansearch/NativeHoldKey/releases/download/1.1.0.0/NativeHoldKey-1.1.0.0.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "8d0295d5d7cd7cf81519050d2d651dca562e1525e1003c7edc6a7faab9f2bb9d",
+    "WikiUrl": "https://github.com/vansearch/NativeHoldKey#readme",
+    "LicenseIdentifier": "MIT"
+}
