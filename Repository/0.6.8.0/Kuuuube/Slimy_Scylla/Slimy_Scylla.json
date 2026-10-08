@@ -1,0 +1,13 @@
+{
+    "Name": "Slimy Scylla",
+    "Owner": "Kuuuube",
+    "Description": "Provides popular input processing methods for drawing.",
+    "PluginVersion": "0.1.7.0",
+    "SupportedDriverVersion": "0.6.8.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/Slimy_Scylla",
+    "DownloadUrl": "https://github.com/Kuuuube/Slimy_Scylla/releases/download/0.1.7/0.1.7_release_slimy_scylla.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "42e728531f24731b96e2887552c8bace0e11a51381704207dd8a5a74b493a93f",
+    "WikiUrl": "https://github.com/Kuuuube/Slimy_Scylla/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
