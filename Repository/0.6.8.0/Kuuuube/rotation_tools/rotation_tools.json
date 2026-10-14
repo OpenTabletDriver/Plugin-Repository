@@ -1,0 +1,13 @@
+{
+    "Name": "Rotation Tools",
+    "Owner": "Kuuuube",
+    "Description": "Filters to help with barrel rotation on tablet pens.",
+    "PluginVersion": "0.0.1.0",
+    "SupportedDriverVersion": "0.6.8.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/rotation_tools",
+    "DownloadUrl": "https://github.com/Kuuuube/rotation_tools/releases/download/0.0.1/0.0.1_release_rotation_tools.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "021382fffbfb050f861b16bd65fe5e34f6b87c2951111aece5d5fb7e1f361208",
+    "WikiUrl": "https://github.com/Kuuuube/rotation_tools/blob/master/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
