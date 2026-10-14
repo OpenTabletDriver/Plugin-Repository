@@ -1,0 +1,14 @@
+{
+    "Name": "Pen Scroll (macOS)",
+    "Owner": "natesute",
+    "Creator": "Matsuda Tetsuya",
+    "Description": "Hold a pen button and move the pen to scroll, like two fingers on a trackpad. The tip never clicks while the button is held and the cursor keeps following the pen. Drag or Joystick mode. macOS and Absolute Mode only.",
+    "PluginVersion": "1.0.0.0",
+    "SupportedDriverVersion": "0.6.7.0",
+    "RepositoryUrl": "https://github.com/natesute/otd-pen-scroll-macos",
+    "DownloadUrl": "https://github.com/natesute/otd-pen-scroll-macos/releases/download/v1.0.0/PenScroll.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "10b391ae27ed8dd7c11d0fee7105ba46ad50db84e427729fe900d04db3631273",
+    "WikiUrl": "https://github.com/natesute/otd-pen-scroll-macos#readme",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
