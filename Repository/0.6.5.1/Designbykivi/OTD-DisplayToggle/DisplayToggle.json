@@ -1,0 +1,13 @@
+{
+    "Name": "Display Toggle",
+    "Owner": "Designbykivi",
+    "Description": "Switch the tablet's mapped monitor with a pen button or express key: cycle through displays, jump to a specific display, or map to the full desktop.",
+    "PluginVersion": "1.0.0.0",
+    "SupportedDriverVersion": "0.6.5.1",
+    "RepositoryUrl": "https://github.com/Designbykivi/OTD-DisplayToggle",
+    "DownloadUrl": "https://github.com/Designbykivi/OTD-DisplayToggle/releases/download/v1.0.0.0/DisplayToggle.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "51bd33d1817d85cd0a256a76bef42ffb9095b61f1035cbde3e7a8122268631cb",
+    "WikiUrl": "https://github.com/Designbykivi/OTD-DisplayToggle/blob/main/README.md",
+    "LicenseIdentifier": "MIT"
+}
