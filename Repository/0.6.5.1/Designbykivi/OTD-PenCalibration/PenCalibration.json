@@ -1,0 +1,13 @@
+{
+    "Name": "Pen Calibration",
+    "Owner": "Designbykivi",
+    "Description": "Wacom-style pen calibration for pen displays: tap crosshairs on screen to correct the cursor's offset, scale, rotation, skew and perspective so it lands under the pen tip.",
+    "PluginVersion": "1.0.0.0",
+    "SupportedDriverVersion": "0.6.5.1",
+    "RepositoryUrl": "https://github.com/Designbykivi/OTD-PenCalibration",
+    "DownloadUrl": "https://github.com/Designbykivi/OTD-PenCalibration/releases/download/v1.0.0.0/PenCalibration.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "d3999ac183da5bf1bf514388883aa02cb190dc9ec4a1743e9993f54d782c65a0",
+    "WikiUrl": "https://github.com/Designbykivi/OTD-PenCalibration/blob/main/README.md",
+    "LicenseIdentifier": "MIT"
+}
