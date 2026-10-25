@@ -4,6 +4,7 @@
     "Description": "Allow for the use of additional Fxx AND Media keys",
     "PluginVersion": "1.0.0",
     "SupportedDriverVersion": "0.6.0.3",
+    "MaxSupportedDriverVersion": "0.6.8.0",
     "RepositoryUrl": "https://github.com/Mrcubix/Additional-Keys",
     "DownloadUrl": "https://github.com/Mrcubix/Additional-Keys/releases/download/1.0.0/Additional-Keys-0.6.x-1.0.0.zip",
     "CompressionFormat": "zip",
