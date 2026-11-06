@@ -2,12 +2,12 @@
     "Name": "moonlight suite",
     "Owner": "cfm-miku-en",
     "Description": "moonlight suite is a suite of many cool filters (Smoothing, spring, etc)",
-    "PluginVersion": "2.0.0.0",
+    "PluginVersion": "2.1.0.0",
     "SupportedDriverVersion": "0.6.6.2",
     "RepositoryUrl": "https://github.com/cfm-miku-en/moonlight-suite/tree/main",
-    "DownloadUrl": "https://github.com/cfm-miku-en/moonlight-suite/releases/download/v2.0.0/MoonlightSuite.zip",
+    "DownloadUrl": "https://github.com/cfm-miku-en/moonlight-suite/releases/download/v2.1.0/MoonlightSuite.zip",
     "CompressionFormat": "zip",
-    "SHA256": "7c86d62a9fd4a8b9d763511fb80abfb29bc1c6441ccdcc2eda1e22624893aa05",
+    "SHA256": "dc842c0a9d4faa9d42ff3bb8ac6803667ee29444edbddc8ffb9113435b5cb2cc",
     "WikiUrl": "https://github.com/cfm-miku-en/moonlight-suite/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
