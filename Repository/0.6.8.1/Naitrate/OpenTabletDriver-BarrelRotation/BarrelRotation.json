@@ -1,0 +1,13 @@
+{
+    "Name": "Barrel Rotation",
+    "Owner": "Naitrate",
+    "Description": "Emulates pen barrel rotation for pens without rotation hardware: hold a tablet button and drag horizontally to set the angle. Linux Artist Mode only.",
+    "PluginVersion": "0.1.1.0",
+    "SupportedDriverVersion": "0.6.8.1",
+    "RepositoryUrl": "https://github.com/Naitrate/OpenTabletDriver-BarrelRotation",
+    "DownloadUrl": "https://github.com/Naitrate/OpenTabletDriver-BarrelRotation/releases/download/v0.1.1/BarrelRotation-0.1.1.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "98a4f8ca3f0292a2c93d1d01d7206d021c741772f4cb41884aa9867b0ddb34fa",
+    "WikiUrl": "https://github.com/Naitrate/OpenTabletDriver-BarrelRotation/blob/main/README.md",
+    "LicenseIdentifier": "MIT"
+}
