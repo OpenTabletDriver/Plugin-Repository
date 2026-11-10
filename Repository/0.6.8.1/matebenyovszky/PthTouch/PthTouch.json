@@ -2,12 +2,12 @@
     "Name": "PTH Touch Relative Mode",
     "Owner": "matebenyovszky",
     "Description": "macOS trackpad-style Wacom touch with relative pen input: one-finger pointer, two-finger scrolling, taps, tap-and-drag, and stable hover. Tested on PTH-851.",
-    "PluginVersion": "1.2.2.0",
+    "PluginVersion": "1.2.3.0",
     "SupportedDriverVersion": "0.6.8.1",
     "RepositoryUrl": "https://github.com/matebenyovszky/PthTouch",
-    "DownloadUrl": "https://github.com/matebenyovszky/PthTouch/releases/download/v1.2.2/PthTouch.zip",
+    "DownloadUrl": "https://github.com/matebenyovszky/PthTouch/releases/download/v1.2.3/PthTouch.zip",
     "CompressionFormat": "zip",
-    "SHA256": "0a205ab7cdfc773da6bb4e400d435b13c0680855df5defea42ee07f14519e7b2",
+    "SHA256": "972b77bce3bf8f231b38bb06d07b1d5b4efa577a8dd554136a799d5796595ab8",
     "WikiUrl": "https://github.com/matebenyovszky/PthTouch#readme",
     "LicenseIdentifier": "MIT"
 }
