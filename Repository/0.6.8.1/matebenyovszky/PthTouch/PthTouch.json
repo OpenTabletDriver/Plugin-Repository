@@ -1,13 +1,13 @@
 {
     "Name": "PTH Touch Relative Mode",
     "Owner": "matebenyovszky",
-    "Description": "macOS Wacom touch with relative pen: taps, drag, scroll, pinch, system swipes and optional interactive Spaces. Pen joystick autoscroll, hover/scroll noise filters, middle tap and optional native settings app. Tested on PTH-851.",
-    "PluginVersion": "1.5.1.0",
+    "Description": "macOS Wacom relative pen and touch: taps, drag, scroll, pinch, system swipes and optional interactive Spaces. Adjustable pointer acceleration, joystick edge boost, general pen noise filtering, middle tap and native settings companion. Tested on PTH-851.",
+    "PluginVersion": "1.6.0.0",
     "SupportedDriverVersion": "0.6.8.1",
     "RepositoryUrl": "https://github.com/matebenyovszky/PthTouch",
-    "DownloadUrl": "https://github.com/matebenyovszky/PthTouch/releases/download/v1.5.1/PthTouch.zip",
+    "DownloadUrl": "https://github.com/matebenyovszky/PthTouch/releases/download/v1.6.0/PthTouch.zip",
     "CompressionFormat": "zip",
-    "SHA256": "101723fa23f33467d3029e5e2df77eeacb4e6cf16d9f0623963bf6b5bf9e9ed7",
+    "SHA256": "04a6fc39b6b9327da990d70251d279015bc39f2cc9ce6d5b113ceeb7072ca5c8",
     "WikiUrl": "https://github.com/matebenyovszky/PthTouch#readme",
     "LicenseIdentifier": "MIT"
 }
