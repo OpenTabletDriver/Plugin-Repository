@@ -2,12 +2,12 @@
     "Name": "The Saturn Collection",
     "Owner": "shreddism",
     "Description": "The Enhanced Plugin Experience.\n - Configurable antichatter with virtually 0 latency\n - Non-smoothing noise reduction for high report rate modded tablets\n - Output mode with a real-time movable area\n ...and more!",
-    "PluginVersion": "1.2.1.1",
+    "PluginVersion": "1.2.1.2",
     "SupportedDriverVersion": "0.6.6.2",
     "RepositoryUrl": "https://github.com/shreddism/TheSaturnCollection",
-    "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/1.2.1.1/Saturn.zip",
+    "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/1.2.1.2/Saturn.zip",
     "CompressionFormat": "zip",
-    "SHA256": "bec20e292bfdcc7e654f9ae3ae6ab814116fff33fd72ee69a55829ff68e5e5e4",
+    "SHA256": "f95b2d42fbbadf6555303910fb9fd21098ec6e214e8e56c37f1aa8cd7e89008b",
     "WikiUrl": "https://github.com/shreddism/TheSaturnCollection/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
